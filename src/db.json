@@ -1,0 +1,32 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "siteName": "AppVision.com",
+      "description": "Anonymous Site Description",
+      "itPromoCode": "1988",
+      "bonusActivated": false
+    },
+    {
+      "id": 2,
+      "siteName": "Analytics.com",
+      "description": "Google Site Description",
+      "itPromoCode": "1987",
+      "bonusActivated": true
+    },
+    {
+      "id": 3,
+      "siteName": "Logotype.io",
+      "description": "Logotype Site Description",
+      "itPromoCode": "1989",
+      "bonusActivated": false
+    },
+    {
+      "id": 4,
+      "siteName": "Siteconstructor.io",
+      "description": "Random Site Description",
+      "itPromoCode": "19880",
+      "bonusActivated": true
+    }
+  ]
+}
